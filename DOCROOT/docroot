@@ -1,0 +1,3 @@
+DOCROOT contains the resources to be made available in the domain1 docroot directory of glassfish.
+When the domain url without subdomains is initialized in a browser the index.html is called by default.
+All the html files in docroot of domain1 will refer to the resources in this directory.
